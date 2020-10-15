@@ -12,7 +12,7 @@
 
 ## Fork & Clone this repository
 
-* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Projects/002%20-%20Practice%20Using%20Git%20and%20GitHub/README.md
+* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/exerGitPractice
 * This can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
@@ -45,6 +45,8 @@
 * Intro to Data Analysis (22 min): https://www.youtube.com/watch?v=a9UrKTVEeZA&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=12
   * Enter the code and run it in your Jupyter Notebook file.
   * When you're done make sure you save your file.
+  * The presenter provides the data file in a link below his video. Here's the link: https://www.csdojo.io/data
+  * I also included the data files in this repository.
 
 ## Push your updated file to your GitHub repository
 
